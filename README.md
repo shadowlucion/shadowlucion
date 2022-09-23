@@ -45,9 +45,7 @@
       </a>
     </td>
      <td>
-<!--        <a href="https://www.github.com/shadowlucion">
-<!--        <img src ="https://github-readme-stats.vercel.app/api/pin/?username=shadowlucion&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" /> -->
-      </a> -->
+
     </td>
   </tr>
 </table>
