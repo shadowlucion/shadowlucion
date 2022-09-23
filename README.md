@@ -44,9 +44,7 @@
        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowlucion&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
       </a>
     </td>
-     <td>
-
-    </td>
+     
   </tr>
 </table>
 <p align="center"> 
