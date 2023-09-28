@@ -95,8 +95,14 @@
 		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1Fa5FbBqPpZzPWpeIxfJDSXrrbRmXsGJQ/view?usp=drive_link">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
-
 </p>
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
 
 
@@ -104,9 +110,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/shadowlucion">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shadowlucion&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shadowlucion&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
