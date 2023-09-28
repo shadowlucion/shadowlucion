@@ -16,7 +16,7 @@
 
 - 🌱 MEAN & MERN Stack Developer.
 
-- 🤝 I used to code on different platforms list <a href="https://leetcode.com/shadowlucion/">Leetcode</a>, <a href="https://auth.geeksforgeeks.org/user/saileshmishra11sm">GFG</a> and <a href="https://www.codechef.com/users/shadowlucion">CodeChef</a>
+- 👨🏻‍💻 I used to code on different platforms list <a href="https://leetcode.com/shadowlucion/">Leetcode</a>, <a href="https://auth.geeksforgeeks.org/user/saileshmishra11sm">GFG</a> and <a href="https://www.codechef.com/users/shadowlucion">CodeChef</a>
 
 - 🌱 Currently Learning Java and Low Level Design Principles.
 
