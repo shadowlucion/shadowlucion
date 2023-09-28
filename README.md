@@ -42,14 +42,11 @@
   </ul>
 </div>
 
-<h3 align="center">Programming Languages 💻 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java&perline=14" />
   </a>
 </p>
-
-<h3 align="center">Web Technologies 🌐 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,angular,react,nodejs,redux,nextjs,&perline=14" />
