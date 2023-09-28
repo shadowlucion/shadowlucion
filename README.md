@@ -1,12 +1,64 @@
-
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">Full Stack Developer with more than 1.5 years of experience in MEAN & MERN stack technologies.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowlucion&label=Profile%20views&color=0e75b6&style=flat" alt="shadowlucion" /> </p>
+
+
+- 🔭 Currently working in <a href="https://scryai.com/" target="blank">Scry AI</a>
+
+- 🌱 MEAN & MERN Stack Developer.
+
+- 🤝 Available for freelancing.
+
+- 🌱 Currently Learning Java and Low Level Design Principles.
+
+- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+
+- 💬 Ask me about Web Development.
+
+- 📫 How to reach me **saileshmishra11.sm@gmail.com**
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Fa5FbBqPpZzPWpeIxfJDSXrrbRmXsGJQ/view?usp=drive_link" target="blank">Resume</a>
+<br/>
+
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmishra101/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/shadowlucion">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	 <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/shadowlucion">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/shadowlucionX">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCXLCYEmhi9HvERs45FySPjA">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1Fa5FbBqPpZzPWpeIxfJDSXrrbRmXsGJQ/view?usp=drive_link">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
+</p>
+
+
+
+
+
+
+
+
+
 
 
 - 🌱 Currently learning 🏎Express,🧩NodeJs,🐀Mongoose,🍃MongoDB,🏆Angular
 - 💬 Ask me about 👨‍💻
 - 📫 Mail me: saileshmishra12.sm@gmail.com
 - ⚡ Fun fact: forgetting names of people.
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
