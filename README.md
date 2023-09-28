@@ -100,7 +100,12 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">⚙️ &nbsp;GitHub Analytics</h2></summary>
+  </ul>
+</div>
+
 
 <p align="center">
 <a href="https://github.com/shadowlucion">
