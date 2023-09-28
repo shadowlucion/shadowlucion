@@ -52,7 +52,7 @@
 <h3 align="center">Web Technologies 🌐 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,angular,react,node,redux,nextjs,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,angular,react,nodejs,redux,nextjs,&perline=14" />
   </a>
 </p>
 
