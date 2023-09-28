@@ -1,0 +1,323 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.2 (16/9/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% TODO:
+% 1. Integrate biber/bibtex for article citation under publications.
+% 2. Figure out a smoother way for the document to flow onto the next page.
+% 3. Add styling information for a "Projects/Hacks" section.
+% 4. Add location/address information
+% 5. Merge OpenFont and MacFonts as a single sty with options.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+% v1.1:
+% 1. Fixed several compilation bugs with \renewcommand
+% 2. Got Open-source fonts (Windows/Linux support)
+% 3. Added Last Updated
+% 4. Move Title styling into .sty
+% 5. Commented .sty file.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the
+% vertical limit
+% 2. Hacky space on the first bullet point on the second column.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Saurabh Mishra} {}{ 
+ 912.027.9252 | \href{mailto:saileshmishra11.sm@gmail.com}{saileshmishra11.sm@gmail.com}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+
+
+\subsection{PSIT College Of Engineering}
+\descript{B.Tech in IT}
+\location{2018-2022 | Kanpur, UP}
+\location{ Percentage: 81}
+\sectionsep
+
+\subsection{Sardar Patel Inter College}
+\descript{State Board}
+\location{2017 |  Kaisarganj, UP}
+\location{ Percentage: 77.4}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links} 
+Github:// \href{https://github.com/shadowlucion}{\bf shadowlucion} \\
+LinkedIn://  \href{https://www.linkedin.com/in/saurabhmishra101}{\bf saurabhmishra101} \\
+YouTube://  \href{https://www.youtube.com/@saurabhmishraYT}{\bf saurabhmishraYT} \\
+Instagram://  \href{https://www.instagram.com/shadowlucion}{\bf shadowlucion} \\
+GFG://  \href{https://auth.geeksforgeeks.org/user/saileshmishra11sm}{\bf saileshmishra11sm} \\
+Leetcode://  \href{https://leetcode.com/shadowlucion}{\bf shadowlucion} \\
+Codechef://  \href{https://www.codechef.com/users/shadowlucion}{\bf shadowlucion} \\
+Hackerrank://  \href{https://www.hackerrank.com/shadowlucion}{\bf shadowlucion} \\
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\location{Programming Languages}
+Javascript \textbullet{} Typescript \textbullet{} Python \textbullet{} Java \\
+
+\location{Web Technologies}
+MongoDB \textbullet{} ExpressJs \textbullet{} React \textbullet{} Angular \textbullet{} NodeJs \textbullet{} HTML5 \textbullet{} CSS \textbullet{} TailwindCSS   \\
+
+\location{Database}
+SQL (MySQL, Oracle) \textbullet{} NOSQL(MongoDB) \textbullet{} Firebase \textbullet{} Supabase  \\
+
+\location{Dev Tools}
+Git \textbullet{} Github  \\
+
+\location{Editors}
+VScode \textbullet{} Pycharm  \\
+
+\location{Others}
+DSA \textbullet{} RDBMS \textbullet{} System Design \textbullet{} OOPS  \\
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Achievements
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Achievements} 
+\begin{tabular}{rll}
+4*	     & Codechef Max Rating \\
+31st Rank	 & CodeChef Long July Challenge \\
+6*	     & HackerRank Problem Solving\\
+1\textsuperscript{st} Rank  & PSIT Tech Fest-2019(Ignitia)  \\
+\end{tabular}
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Hobbies
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Hobbies}
+Watching Anime \textbullet{} Swimming \textbullet{} Badminton \textbullet{} Cricket  \\
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+% \runsubsection{Scry AI}
+% \descript{| MEAN Stack Developer }
+% \location{June 2022 - Present | Gurugram, Haryana}
+
+% \sectionsep
+
+\runsubsection{Scry AI}
+\descript{| MEAN Stack Developer }
+\location{June 2022 - Present | Gurugram, Haryana}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Developed and managed three major projects, excelling in both front-end and back-end development.
+\item Spearheaded the creation of the "Company Bid Portal," optimizing internal communication and implementing bidding functionality. 
+\item Led "Watercon" project, streamlining water delivery operations with listing, ordering, and efficient tank delivery.
+\item Contributed to "Cost Estimation" website, enabling PDF report generation and project benchmarking.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Codechef}
+\descript{| Educator }
+\location{Aug 2021 – Jun 2022 | Remote}
+\begin{tightemize}
+\item Assisted 1000+ students with coding problem solutions, improving their programming skills.
+\item Conducted educational sessions, workshops, and tutorials to enhance students coding abilities.
+\item Contributed to  community growth by sharing knowledge and participating in coding challenges. 
+
+\end{tightemize}
+\sectionsep
+
+% \runsubsection{YouTube }
+% \descript{| Content Creator }
+% \location{August 2020 - August 2021 | Remote}
+% \begin{tightemize}
+% \item Educated and guided 1000+ students in Data Structures and Algorithms (DSA) through video tutorials.
+% \item Produced instructional content on topics such as graph theory, dynamic programming, and problem-solving.
+% \item Facilitated learning and skill development within the DSA domain for a wide online audience. 
+
+% \end{tightemize}
+% \sectionsep
+
+
+% \runsubsection{Codechef}
+% \descript{| Educator }
+% \location{Aug 2021 – Jun 2022 | Remote}
+% \begin{tightemize}
+% \item Assisted 1000+ students with coding problem solutions, improving their programming skills.
+% \item Conducted educational sessions, workshops, and tutorials to enhance students' coding abilities.
+% \item Contributed to Codechef's community growth by sharing knowledge and participating in coding challenges.
+% \end{tightemize}
+% \sectionsep
+
+% \runsubsection{Phabricator}
+% \descript{| Open Source Contributor \& Team Leader}
+% \location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
+% \begin{tightemize}
+% \item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.
+% \item I created the Meme generator and more in PHP and Shell.
+% \item Led a team from MIT, Cornell, IC London and UHelsinki for the project.
+% \end{tightemize}
+% \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     RESEARCH
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \section{Research}
+% \runsubsection{Cornell Robot Learning Lab}
+% \descript{| Researcher}
+% \location{Jan 2014 – Jan 2015 | Ithaca, NY}
+% Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+% \sectionsep
+
+% \runsubsection{Cornell Phonetics Lab}
+% \descript{| Head Undergraduate Researcher}
+% \location{Mar 2012 – May 2013 | Ithaca, NY}
+% Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
+% \sectionsep
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Projects
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Projects}
+% \runsubsection{Scry AI}
+% \descript{| MEAN Stack Developer }
+% \location{June 2022 - Present | Gurugram, Haryana}
+
+% \sectionsep
+
+\runsubsection{Company Bid Portal}
+\descript{| MEAN stack }
+\begin{tightemize}
+\item Developed a robust system for managing and facilitating communication among employees of varying levels. Implemented bidding functionality to enhance internal operations.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Watercon}
+\descript{| MEAN stack }
+\begin{tightemize}
+\item Led the development of a water delivery system, including listing, ordering, and efficient delivery of water tanks, led to great profit.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Cost Estimation}
+\descript{| MEAN stack }
+\begin{tightemize}
+\item Contributed to the creation of an analytics tool that generates PDF reports from uploaded Excel sheets. Enabled benchmarking against similar projects for comprehensive insights.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Pizza Delivery System }
+\descript{| React }
+\begin{tightemize}
+\item Designed and developed an efficient online platform for ordering and delivering pizzas, streamlining the entire process.
+https://github.com/shadowlucion/Pizza-Delivery-System
+\end{tightemize}
+\sectionsep
+
+
+\runsubsection{WorldWise - Map Positioning Application}
+\descript{| React }
+\begin{tightemize}
+\item Developed an interactive application, "WorldWise," enabling users to pinpoint any location on a map and obtain its precise coordinates. Facilitated easy location tracking and information retrieval.
+https://github.com/shadowlucion/Worldwise
+\end{tightemize}
+\sectionsep
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PUBLICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \section{Publications} 
+% \renewcommand\refname{\vskip -1.5em} % Couldn't get this working from the .cls file
+% \bibliographystyle{abbrv}
+% \bibliography{publications}
+% \nocite{*}
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
