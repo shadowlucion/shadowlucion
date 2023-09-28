@@ -90,12 +90,7 @@
       </div>
 </p>
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=shadowlucion&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowlucion&label=Profile%20views&color=0e75b6&style=flat" alt="shadowlucion" /> </p>
 
 
 
