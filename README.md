@@ -16,7 +16,7 @@
 
 - 🌱 MEAN & MERN Stack Developer.
 
-- 🤝 Available for freelancing.
+- 🤝 I used to code on different platforms list <a href="abc.com">leetcode</a>
 
 - 🌱 Currently Learning Java and Low Level Design Principles.
 
