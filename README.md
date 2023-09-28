@@ -13,8 +13,6 @@
 
 - 🌱 Currently Learning Java and Low Level Design Principles.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
 - 💬 Ask me about Web Development.
 
 - 📫 How to reach me **saileshmishra11.sm@gmail.com**
