@@ -49,7 +49,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,angular,react,nodejs,redux,nextjs,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,angular,react,nodejs,redux,nextjs,html,css,tailwindcss&perline=14" />
   </a>
 </p>
 
