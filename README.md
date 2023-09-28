@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
 
-<h3 align="center">Full Stack Developer with more than 1.5 years of experience in MEAN & MERN stack technologies.</h3>
+<h3 align="center">Full Stack Developer with 1.5+ years of experience in MEAN & MERN stack technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowlucion&label=Profile%20views&color=0e75b6&style=flat" alt="shadowlucion" /> </p>
 
