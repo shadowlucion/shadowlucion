@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **saileshmishra11.sm@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Fa5FbBqPpZzPWpeIxfJDSXrrbRmXsGJQ/view?usp=drive_link" target="__blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Fa5FbBqPpZzPWpeIxfJDSXrrbRmXsGJQ/view?usp=drive_link">Resume</a>
 <br/>
 
 
